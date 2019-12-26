@@ -50,6 +50,3 @@ As final considerations:
 
 * Lastly, remember -- this is a challenging activity. Push yourself! If you complete this task, then you can safely say that you've gained a strong mastery of the core foundations of data analytics and it will only go better from here. Good luck!
 
-## Copyright
-
-Coding Boot Camp (C) 2016. All Rights Reserved.
